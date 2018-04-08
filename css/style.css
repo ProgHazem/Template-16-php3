@@ -1,0 +1,11 @@
+/*Start Rules For framworks*/
+*, *::after, *::before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}    
+/*End Rules For framworks*/

@@ -1,0 +1,23 @@
+******************************************************************
+========== Simple Site for Books ==============
+
+Template 15
+
+==> use HTML5.
+
+==> use CSS3.
+
+==> use Bootstrap
+
+==> use Fontawesome
+
+==> use Jquery
+
+==> use PHP & MySQL
+
+==> use Google Fonts
+
+
+                                               thanks for reading
+                                                      Hazem
+*******************************************************************
